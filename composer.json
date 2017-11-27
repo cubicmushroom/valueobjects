@@ -1,5 +1,5 @@
 {
-    "name": "nicolopignatelli/valueobjects",
+    "name": "cubicmushroom/valueobjects",
     "description": "A PHP library/collection of classes aimed to help developers using and undestanding immutable objects.",
     "license": "MIT",
     "authors": [
