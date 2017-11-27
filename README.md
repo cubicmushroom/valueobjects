@@ -1,3 +1,6 @@
+This is a direct clone of the nicolopignatelli/valueobjects which appears to have been delete, created so that those using the original package can continue using it despite the original repository being deleted.
+
+
 ValueObjects
 ============
 
