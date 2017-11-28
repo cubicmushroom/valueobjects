@@ -32,6 +32,9 @@
     "autoload-dev": {
         "psr-4": { "ValueObjects\\Tests\\": "tests/" }
     },
+    "replace": {
+        "nicolopignatelli/valueobjects": "3.*"
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "3.0.x-dev"
